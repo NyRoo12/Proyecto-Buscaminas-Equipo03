@@ -3,6 +3,13 @@ Trabajo de INFO229 del equipo_03 del proyecto de buscaminas
 
 Nombres : Nicolas Donoso , Ivan Pizarro , Cristian Huenchullanca
 
+
+En el github podra encontrar : 
+ 
+1. Informe: contienendo todo lo solicitado ocupando metodologia 4+1 y mostrando las buenas practicas para la realizacion del proyecto .
+
+2. Prototipo del proyecto : En donde se podra encontrar un prototipo del videojuego buscaminas segun nuestro criterios (ocurrieron muchos errores al momento de crear un ejecutable por temas de compatibilidad y por eso no se realizo correctamente) 
+
 ## Como abrir el juego
 
 Para poder ejecutar el juego , tenemos que irnos a la carpeta llamado /Proyecto buscaminas
